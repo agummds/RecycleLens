@@ -72,8 +72,17 @@ recyclelens-capstone/
 ```
 
 # Cara Penggunaan
-1. Upload gambar sampah dengan klik button `upload`
-2. 
+1. Buka aplikasi web RecycleLens di https://recyclelens-capstone.streamlit.app
+2. Anda akan langsung diarahkan ke halaman **Deteksi Sampah**.
+3. Pilih metode input gambar:
+   - 📁 **Upload File**: Unggah gambar dari galeri perangkat Anda.
+   - 📷 **Kamera**: Ambil gambar langsung menggunakan kamera perangkat.
+4. Setelah gambar berhasil dimuat, aplikasi akan secara otomatis menampilkan:
+   - 🔍 **Prediksi kategori sampah**
+   - ♻️ **Cara Daur Ulang**
+   - 🌍 **Dampak Lingkungan**
+   - 🔥 **Jejak Karbon**
+> ✅ Aplikasi ini kompatibel dan dapat digunakan dengan baik di perangkat **desktop maupun mobile**.
 
 # Project Member
 * Agum Medisa
