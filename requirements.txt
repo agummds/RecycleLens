@@ -6,3 +6,6 @@ pandas
 h5py
 folium
 streamlit-folium
+plotly
+gspread
+oauth2client
