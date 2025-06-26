@@ -4,3 +4,4 @@ pillow
 numpy
 pandas
 h5py
+folium
