@@ -4,5 +4,3 @@ pillow
 numpy
 pandas
 h5py
-python-3.11
-
